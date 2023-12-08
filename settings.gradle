@@ -1,0 +1,16 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositories {
+        maven {
+            url 'https://android-sdk.is.com/'
+        }
+    }
+}
+rootProject.name = "My Application"
+include ':app'

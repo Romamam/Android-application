@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404529176310",
+    "project_id": "tik-tok-downloader-8bb5c",
+    "storage_bucket": "tik-tok-downloader-8bb5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404529176310:android:43203c8a0a8bd12492d6d7",
+        "android_client_info": {
+          "package_name": "com.videoforyou.downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404529176310-t9i411fmf4k5ahijn253idfouodg647a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIm1freQgH7h1UqHiJRoAeQw-FnEGX6II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404529176310-t9i411fmf4k5ahijn253idfouodg647a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
